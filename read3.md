@@ -11,4 +11,4 @@
 
 
 
-[git intro](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png) s
+[git intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
