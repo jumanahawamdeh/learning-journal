@@ -6,11 +6,11 @@
 ##Prerequisites
 Before Starting it is highly recommended to be familiar with Terminal (As for Mac) or what is called command line (for Windows & Linux).
 
-### What is Git?
+## What is Git?
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
  
-### it design was inspired by BitKeeper and Monotone. it was originally designed as a low-level version-control system.
+
 
 
 ![](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
