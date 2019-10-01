@@ -17,4 +17,5 @@ Before Starting it is highly recommended to be familiar with Terminal (As for Ma
 
 
 
+### for more informtion please visit this link
 [git intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
